@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bytetrie/bytetrie/main/banner.png" alt="bytetrie" width="100%">
+  <img src="https://raw.githubusercontent.com/bytetrie/bytetrie/main/bytetrie-banner.png" alt="bytetrie" width="100%">
 </p>
 
 <p align="center">
